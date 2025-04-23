@@ -1,0 +1,5 @@
+Category,Predicted Glucose Change (mmol/L),Predicted Variance (mmol/L),Actual Glucose Change (mmol/L),Actual Variance (mmol/L),Total Windows,Correct Predictions,Accuracy (%),Mean Absolute Error Glucose,Mean Absolute Error Variance
+High,0.965,0.438,0.967,0.445,63,63,100.000,-,-
+Low,0.723,0.298,0.724,0.295,53,53,100.000,-,-
+Medium,0.876,0.531,0.868,0.520,64,64,100.000,-,-
+Very High,1.342,0.677,1.339,0.667,52,52,100.000,-,-
