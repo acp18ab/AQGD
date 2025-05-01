@@ -1,6 +1,6 @@
-# Activity-Driven Glucose Prediction (ADGP): A Data-Driven Model for Free-Living Type 1 Diabetes
+# Activity-Driven Glucose Prediction (ADGP): A Data-Driven Model for Type 1 Diabetes in Free-Living Conditions
 
-This repository contains the data and code for the study titled **"Activity-Driven Glucose Prediction (ADGP): A Data-Driven Model for Free-Living Type 1 Diabetes."** The research presents a personalized, predictive model for understanding how varying levels of physical activity (PA) influence blood glucose (BG) in individuals with Type 1 Diabetes Mellitus (T1DM) under real-world, free-living conditions.
+This repository contains the data and code for the study titled **"Activity-Driven Glucose Prediction (ADGP): A Data-Driven Model for Type 1 Diabetes in Free-Living Conditions."** The research presents a personalized, predictive model for understanding how varying levels of physical activity (PA) influence blood glucose (BG) in individuals with Type 1 Diabetes Mellitus (T1DM) under real-world, free-living conditions.
 
 ---
 
@@ -65,7 +65,7 @@ cd ADGP
 
 If you use this repository or build on this model, please cite:
 
-> Ahmad Bilal et al., *"Activity-Driven Glucose Prediction (ADGP): A Data-Driven Model for Free-Living Type 1 Diabetes"*, The University of Manchester, 2025.
+> Ahmad Bilal et al., *"Activity-Driven Glucose Prediction (ADGP): A Data-Driven Model for Type 1 Diabetes in Free-Living Conditions"*, The University of Manchester, 2025.
 
 ---
 
