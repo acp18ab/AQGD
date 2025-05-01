@@ -43,8 +43,8 @@ My Data/
 ### 🔧 Clone the Repository
 
 ```bash
-git clone https://github.com/acp18ab/AQGD.git
-cd AQGD
+git clone https://github.com/acp18ab/ADGP.git
+cd ADGP
 ```
 
 ### 💻 Requirements
@@ -65,7 +65,7 @@ cd AQGD
 
 If you use this repository or build on this model, please cite:
 
-> Ahmad Bilal et al., *"Activity Quantification and Glucose Dynamics (AQGD): A Predictive Model for Type 1 Diabetes in Free-Living"*, The University of Manchester, 2025.
+> Ahmad Bilal et al., *"Activity-Driven Glucose Prediction (ADGP): A Data-Driven Model for Free-Living Type 1 Diabetes"*, The University of Manchester, 2025.
 
 ---
 
