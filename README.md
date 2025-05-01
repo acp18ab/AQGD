@@ -1,6 +1,6 @@
-# Activity Quantification and Glucose Dynamics (AQGD)
+# Activity-Driven Glucose Prediction (ADGP): A Data-Driven Model for Free-Living Type 1 Diabetes
 
-This repository contains the data and code for the study titled **"Activity Quantification and Glucose Dynamics (AQGD): A Predictive Model for Type 1 Diabetes in Free-Living."** The research presents a personalized, predictive model for understanding how varying levels of physical activity (PA) influence blood glucose (BG) in individuals with Type 1 Diabetes Mellitus (T1DM) under real-world, free-living conditions.
+This repository contains the data and code for the study titled **"Activity-Driven Glucose Prediction (ADGP): A Data-Driven Model for Free-Living Type 1 Diabetes."** The research presents a personalized, predictive model for understanding how varying levels of physical activity (PA) influence blood glucose (BG) in individuals with Type 1 Diabetes Mellitus (T1DM) under real-world, free-living conditions.
 
 ---
 
